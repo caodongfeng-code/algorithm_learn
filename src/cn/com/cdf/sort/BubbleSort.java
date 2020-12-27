@@ -26,6 +26,8 @@ public class BubbleSort {
             }
             if (isSorted) {
                 break;
+
+
             }
         }
     }

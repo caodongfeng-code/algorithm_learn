@@ -1,6 +1,5 @@
 package cn.com.cdf.util;
 
-import java.util.Random;
 
 public class RandomUtil {
 
