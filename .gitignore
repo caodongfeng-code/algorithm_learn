@@ -1,1 +1,9 @@
-target/ .idea/ *.iml .project .settings .classpath bin/ .DS_Store
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
